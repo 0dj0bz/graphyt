@@ -1,4 +1,4 @@
-# graphyt (pronounced Gra-FYT)
+# graphyt (pronounced /ˈɡraˌfīt/)
 
 A somewhat elegant and efficient Graph package for Python >=3.6
 
